@@ -20,7 +20,7 @@ export default function Page() {
 
           <p className="text-xl text-slate-300 font-medium w-[400px] my-4 leading-7">
             I&apos;m building a strong foundation in technology with skills in HTML,
-            CSS, JavaScript, TypeScript, and Tailwind CSS, and I’m now exploring
+            CSS, JavaScript, TypeScript, and Tailwind CSS, and I&apos;m now exploring
             Next.js and React.js
           </p>
 
