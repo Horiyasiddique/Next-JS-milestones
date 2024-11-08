@@ -13,7 +13,7 @@ export default function About() {
 
           <p className="about-paras">
             I&apos;m based in Karachi, Pakistan. As a brilliant student in 9th grade
-            at Modern Islamic Grammar School, I'm also passionate about Web 3.0,
+            at Modern Islamic Grammar School, I&apos;m also passionate about Web 3.0,
             AI, and the metaverse, actively learning at the Governor Initiative
             for Generative AI, Metaverse, and Web 3.0.
           </p>
