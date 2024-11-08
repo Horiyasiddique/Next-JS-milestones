@@ -8,18 +8,18 @@ export default function Page() {
       <div className="flex justify-between items-center  mx-12 flex-wrap ">
         <div className="">
           <h1 className="font-extrabold text-4xl text-slate-300 my-6">
-            HI, I'M <span className="text-yellow-500">HOORIA SIDDIQUI</span>
+            HI, I&apos;M <span className="text-yellow-500">HOORIA SIDDIQUI</span>
           </h1>
 
           <p className="text-xl text-slate-300 font-medium w-[400px] my-4 leading-7">
-            I'm based in Karachi, Pakistan. As a brilliant student in 9th grade
+            I&apos;m based in Karachi, Pakistan. As a brilliant student in 9th grade
             at Modern Islamic Grammar School, I'm also passionate about Web 3.0,
             AI, and the metaverse, actively learning at the Governor Initiative
             for Generative AI, Metaverse, and Web 3.0.
           </p>
 
           <p className="text-xl text-slate-300 font-medium w-[400px] my-4 leading-7">
-            I’m building a strong foundation in technology with skills in HTML,
+            I&apos;m building a strong foundation in technology with skills in HTML,
             CSS, JavaScript, TypeScript, and Tailwind CSS, and I’m now exploring
             Next.js and React.js
           </p>

@@ -22,7 +22,7 @@ export default function Home() {
         <div>
           <h1 id="home-name">HOORIA SIDDIQUI</h1>
 
-          <p id="home-para">I'm Frontend Web Developer</p>
+          <p id="home-para">I&apos;m Frontend Web Developer</p>
 
           <div id="socialmedia-link-container">
             <a

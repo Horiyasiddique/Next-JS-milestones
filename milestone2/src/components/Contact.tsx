@@ -5,7 +5,7 @@ function Contact() {
     <div className='flex justify-between  my-20 flex-wrap' id='contact'>
         <div className='mx-7'>
             <h1 className='font-extrabold text-4xl text-slate-300 my-6 mx-10 '>Contact Me </h1>
-            <h3 className='font-serif text-2xl text-slate-300 my-3 mx-10'>Let's talk about anything!</h3>
+            <h3 className='font-serif text-2xl text-slate-300 my-3 mx-10'>Let&apos;s talk about anything!</h3>
         </div>
 
         <div className='flex flex-col items-center justify-center m-10'>

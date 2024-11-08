@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import Image from "next/image";
 import images from "../../public/images.jpeg";
 
@@ -8,18 +8,18 @@ export default function About() {
       <div id="about-container">
         <div>
           <h1 id="about-heading">
-            HI, I'M <span id="about-name">HOORIA SIDDIQUI</span>
+            HI, I&apos;M <span id="about-name">HOORIA SIDDIQUI</span>
           </h1>
 
           <p className="about-paras">
-            I'm based in Karachi, Pakistan. As a brilliant student in 9th grade
+            I&apos;m based in Karachi, Pakistan. As a brilliant student in 9th grade
             at Modern Islamic Grammar School, I'm also passionate about Web 3.0,
             AI, and the metaverse, actively learning at the Governor Initiative
             for Generative AI, Metaverse, and Web 3.0.
           </p>
 
           <p className="about-paras">
-            I’m building a strong foundation in technology with skills in HTML,
+            I&apos;m building a strong foundation in technology with skills in HTML,
             CSS, JavaScript, TypeScript, and Tailwind CSS, and I’m now exploring
             Next.js and React.js
           </p>

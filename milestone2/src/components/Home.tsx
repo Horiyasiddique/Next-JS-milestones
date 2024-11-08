@@ -25,7 +25,7 @@ export default function Home() {
           </h1>
 
           <p className="text-xl text-white font-medium text-center">
-            I'm Frontend Web Developer
+            I&apos;m Frontend Web Developer
           </p>
 
           <div className="flex justify-center items-center text-white text-2xl m-4 gap-3 ">
