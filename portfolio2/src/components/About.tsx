@@ -22,7 +22,7 @@ export default function Page() {
             accessibility, ensuring visitors stay longer and connect better with
             your content. I believe that every detail matters, from subtle
             transitions to immersive animations, and I strive to create designs
-            that are both functional and aesthetically pleasing. Whether you're
+            that are both functional and aesthetically pleasing. Whether you&apos;re
             looking to modernize your website or build an entirely new frontend
             with seamless animations and elegant designs, I can help bring your
             vision to life and ensure your digital presence stands out.
